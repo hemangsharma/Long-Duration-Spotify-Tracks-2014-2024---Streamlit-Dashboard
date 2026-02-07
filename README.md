@@ -6,14 +6,11 @@ Includes a portfolio-style data cleaning notebook, an **Insights** tab, and **ex
 ---
 
 ## Live Demo
-> Add your Streamlit Community Cloud link here once deployed:
 - **App:** (paste link)
 
 ---
 
 ## Screenshots
-
-> Place these images in `screenshots/` using the filenames below.
 
 ### Map Views (Treemap + Sunburst + Theme Map + Heatmap)
 ![Map Views](screenshots/map_views.png)
