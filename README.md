@@ -6,7 +6,7 @@ Includes a portfolio-style data cleaning notebook, an **Insights** tab, and **ex
 ---
 
 ## Live Demo
-- **App:** (paste link)
+- **App:** [Live App](https://hemangsharma-long-duration-spotify-tracks-2014-2024--app-kpnd0o.streamlit.app/)
 
 ---
 
