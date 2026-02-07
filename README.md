@@ -1,7 +1,6 @@
 # Long-Duration Spotify Tracks (2014–2024) - Streamlit Dashboard
 
-A polished, interactive Streamlit dashboard exploring **long-duration Spotify tracks** collected via Spotify’s public API.  
-Includes a portfolio-style data cleaning notebook, an **Insights** tab, and **explainable Recommendations** (no black-box ML).
+A polished, interactive Streamlit dashboard exploring **long-duration Spotify tracks** collected via Spotify’s public API. Includes a portfolio-style data cleaning notebook, an **Insights** tab, and **explainable Recommendations** (no black-box ML).
 
 ---
 
